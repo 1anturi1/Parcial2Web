@@ -1,0 +1,10 @@
+{
+	"Name": "Nombre" ,
+	"PluralMillion": " millones",
+	"SingularMillion":" millón",
+	"DirectedBy": "Dirigido por",
+	"Country": "País",
+	"Budget": "Presupuesto",
+	"Release": "Fecha estreno",
+	"Views": "Vistas"
+}

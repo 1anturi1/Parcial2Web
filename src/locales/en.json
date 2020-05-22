@@ -1,0 +1,10 @@
+{
+	"Name": "thead-dark" ,
+	"PluralMillion": " millions",
+	"SingularMillion":" million",
+	"DirectedBy": "Directed by",
+	"Country": "Country",
+	"Budget": "Budget",
+	"Release": "Release",
+	"Views": "Views"
+}
